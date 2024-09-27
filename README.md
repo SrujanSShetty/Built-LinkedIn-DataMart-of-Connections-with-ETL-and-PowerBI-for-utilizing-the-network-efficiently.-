@@ -1,5 +1,3 @@
-# Data Warehousing Project
-
 ## Overview
 This project demonstrates the design, construction, and deployment of a data warehouse using industry best practices and data modeling methodologies, including the star schema. The project involves extracting, transforming, and loading LinkedIn profiles into a data warehouse, automating data pipelines, and creating a Power BI dashboard for analytics.
 
